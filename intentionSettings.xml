@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Kotlin Android/Add Parcelable Implementation" />
+    <ignoreAction name="Kotlin/Convert to secondary constructor" />
   </component>
 </application>
